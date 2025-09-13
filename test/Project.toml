@@ -1,8 +1,11 @@
 [deps]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 TestItemRunner = "f8b46487-2199-4994-9208-9a1283c18c0a"
 Tyler = "e170d443-b9d6-418a-9ee8-061e966341ef"
+
 [compat]
 Makie = "0.23"

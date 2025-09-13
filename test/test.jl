@@ -1,4 +1,3 @@
-@testitem "tyler issue" begin
 using CairoMakie
 using Makie
 using Tyler
@@ -13,4 +12,3 @@ wait(map)
 map_axis = map.axis
 Makie.hidedecorations!(map_axis)
 println("end of test")
-end
